@@ -21,13 +21,35 @@ I'm a 17-year-old student passionate about web development and currently working
 
 ## Skills
 
-- <img src="/Images/html-5.png" alt="HTML" width="25" height="25"> HTML
-- <img src="/Images/css-3.png" alt="CSS" width="25" height="25"> CSS
-- <img src="/Images/js.png" alt="JavaScript" width="25" height="25"> JavaScript
-- <img src="/Images/discordjs.png" alt="Discord.js" width="25" height="25"> Discord.js
-- <img src="/Images/node-js.png" alt="Node.js" width="25" height="25"> Node.js
-- <img src="/Images/python.png" alt="Python" width="25" height="25"> Python
+<div style="display: flex; align-items: center;">
+  <img src="/Images/html-5.png" alt="HTML" width="25" height="25">
+  HTML
+</div>
 
+<div style="display: flex; align-items: center;">
+  <img src="/Images/css-3.png" alt="CSS" width="25" height="25">
+  CSS
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/Images/js.png" alt="JavaScript" width="25" height="25">
+  JavaScript
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/Images/discordjs.png" alt="Discord.js" width="25" height="25">
+  Discord.js
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/Images/node-js.png" alt="Node.js" width="25" height="25">
+  Node.js
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/Images/python.png" alt="Python" width="25" height="25">
+  Python
+</div>
 - ...
 
 ## GitHub Stats
