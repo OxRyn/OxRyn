@@ -18,7 +18,7 @@ I'm a 17-year-old student passionate about web development and currently working
 
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 - [Twitter](https://twitter.com/yourtwitterhandle)
-- [Portfolio Website](https://www.yourportfolio.com)
+- [Portfolio Website]([https://www.yourportfolio.com](http://amankoushal.epizy.com/?i=2))
 
 ## Skills
 
@@ -30,7 +30,7 @@ I'm a 17-year-old student passionate about web development and currently working
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark)](https://github.com/yourusername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzAmanKoushal&show_icons=true&count_private=true&theme=dark)](https://github.com/yourusername)
 
 Feel free to explore my repositories, and if you have any suggestions or would like to collaborate on a project, feel free to reach out!
 
