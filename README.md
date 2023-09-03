@@ -18,7 +18,7 @@ I'm a 17-year-old student passionate about web development and currently working
 
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 - [Twitter](https://twitter.com/yourtwitterhandle)
-- [Portfolio Website]([https://www.yourportfolio.com](http://amankoushal.epizy.com/?i=2))
+- [Portfolio Website](https://www.yourportfolio.com](http://amankoushal.epizy.com/?i=2))
 
 ## Skills
 
