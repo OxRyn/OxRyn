@@ -21,12 +21,13 @@ I'm a 17-year-old student passionate about web development and currently working
 
 ## Skills
 
-- ![HTML](/Images/html-5.png) HTML
-- ![CSS](/Images/css-3.png) CSS
-- ![JavaScript](/Images/js.png) JavaScript
-- ![Discord.js](/Images/discordjs.png) Discord.js
-- ![Node](/Images/node-js.png)Node.js
-- ![Python](/Images/python.png)Python
+- <img src="/Images/html-5.png" alt="HTML" width="50" height="50"> HTML
+- <img src="/Images/css-3.png" alt="CSS" width="50" height="50"> CSS
+- <img src="/Images/js.png" alt="JavaScript" width="50" height="50"> JavaScript
+- <img src="/Images/discordjs.png" alt="Discord.js" width="50" height="50"> Discord.js
+- <img src="/Images/node-js.png" alt="Node.js" width="50" height="50"> Node.js
+- <img src="/Images/python.png" alt="Python" width="50" height="50"> Python
+
 - ...
 
 ## GitHub Stats
