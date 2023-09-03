@@ -8,15 +8,9 @@ I'm a 17-year-old student passionate about web development and currently working
 - 💬 Ask me about web development, Discord bot development, or anything tech-related!
 - 📫 How to reach me: [amankoushal1985](mailto:amankoushal1985@gmail.com)
 
-## Projects
-
-- 🔧 [Project Name 1](link-to-repo): Description of Project 1.
-- 🔧 [Project Name 2](link-to-repo): Description of Project 2.
-- ...
-
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [Discord](https://discord.gg/5t4J7GDUG7)
 - [Portfolio Website](http://amankoushal.epizy.com/?i=2)
 
 ## Skills
