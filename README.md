@@ -21,12 +21,12 @@ I'm a 17-year-old student passionate about web development and currently working
 
 ## Skills
 
-- ![HTML](https://imgur.com/4lrXIFp) HTML
-- ![CSS](https://imgur.com/w8H1yog) CSS
-- ![JavaScript](https://imgur.com/uJJCwNv) JavaScript
-- ![Discord.js](https://imgur.com/fULnhqg) Discord.js
-- ![Node](https://imgur.com/MLbkdKC)Node.js
-- ![Python](https://imgur.com/tUm5WdW)Python
+- ![HTML](/Images/html-5.png) HTML
+- ![CSS](/Images/css-3.png) CSS
+- ![JavaScript](/Images/js.png) JavaScript
+- ![Discord.js](/Images/discordjs.png) Discord.js
+- ![Node](/Images/node-js.png)Node.js
+- ![Python](/Images/python.png)Python
 - ...
 
 ## GitHub Stats
