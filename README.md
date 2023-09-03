@@ -21,10 +21,10 @@ I'm a 17-year-old student passionate about web development and currently working
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- Discord.js
+- ![HTML]([https://example.com/html-icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ficon%2Fhtml-5_5968267&psig=AOvVaw2BNc7RYWLTH4oW3GNIKlR4&ust=1693804082526000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICkpoXWjYEDFQAAAAAdAAAAABAE)) HTML
+- ![CSS](https://example.com/css-icon.png) CSS
+- ![JavaScript](https://example.com/javascript-icon.png) JavaScript
+- ![Discord.js](https://example.com/discordjs-icon.png) Discord.js
 - Node.js
 - Python
 - ...
