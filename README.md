@@ -21,6 +21,7 @@ I'm a 17-year-old student passionate about web development and currently working
 
 ## Skills
 
+<div style="display: flex;">
 <div style="display: flex; align-items: center;">
   <img src="/Images/html-5.png" alt="HTML" width="25" height="25">
   HTML
@@ -49,6 +50,7 @@ I'm a 17-year-old student passionate about web development and currently working
 <div style="display: flex; align-items: center;">
   <img src="/Images/python.png" alt="Python" width="25" height="25">
   Python
+</div>
 </div>
 - ...
 
