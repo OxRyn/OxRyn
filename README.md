@@ -1,6 +1,6 @@
 # Hello, I'm Aman Koushal 👋
 
-I'm a 17-year-old student passionate about web development and currently working on a Discord bot using Discord.js.
+I'm a 17-year-old student passionate about web development and currently working on a Discord bot using [Discord.js](https://discord.js.org/).
 
 ## About Me
 
