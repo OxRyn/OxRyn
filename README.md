@@ -38,7 +38,7 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzAmanKoushal&show_icons=true&theme=radical)
 
 ## 📝 Blog
 
