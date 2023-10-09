@@ -12,13 +12,18 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 - 🎯 I love building software that solves real-world problems and makes life easier.
 
 ## 🛠️ Tech Stack
-![Html](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=css3)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=angular)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=mongodb)
 
 
