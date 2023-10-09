@@ -14,11 +14,11 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=SQL)
+![React](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=angular)
+![Node.js](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=sql)
 
 
 ## 💼 Work Experience
