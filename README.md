@@ -19,7 +19,7 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 ![Angular](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=angular)
 ![Node.js](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=mongodb)
 
 
 ## 💼 Work Experience
