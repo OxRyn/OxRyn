@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Aman Koushal]
+# 👋 Hello, I'm Aman Koushal
 
 ![Profile Banner](banner.png)
 
@@ -13,12 +13,13 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue)
 ![React](https://img.shields.io/badge/-Angular-green)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-orange)
+
 
 ## 💼 Work Experience
 
