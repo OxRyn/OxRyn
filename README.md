@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Aman Koushal]
 
 ![Profile Banner](banner.png)
 
@@ -15,6 +15,7 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![React](https://img.shields.io/badge/-React-blue)
+![React](https://img.shields.io/badge/-Angular-green)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-orange)
