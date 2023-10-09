@@ -12,8 +12,8 @@ I'm a passionate developer on a mission to turn coffee into code ☕. Welcome to
 - 🎯 I love building software that solves real-world problems and makes life easier.
 
 ## 🛠️ Tech Stack
-![Html](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=html)
-![Css](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=css)
+![Html](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=html5)
+![Css](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=angular)
