@@ -2,7 +2,7 @@
 
 ![Profile Banner](banner.png)
 
-👨‍🎓 I'm a 17-year-old student from Delhi, India, passionate about technology and coding. Welcome to my coding journey!
+👨‍🎓 I'm a 19-year-old student from Delhi, India, passionate about technology and coding. Welcome to my coding journey!
 
 ## 🚀 Quick Intro
 
