@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 21-year-old student from Delhi, India, passionate about technology and coding.
+I'm a college student from Delhi, India, passionate about technology and coding.
 
 
 ## 🌐 Socials:
